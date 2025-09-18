@@ -1,9 +1,3 @@
-# GitHub Pages 简历模板（Markdown 版本）
-
-你可以直接复制以下内容到你的仓库 `index.md` 或 `README.md`，然后启用 **GitHub Pages**，就能在线展示简历。
-
----
-
 # Feng Xiao
 
 **Senior QA Automation Engineer | Web3 & AI Enthusiast**
@@ -89,9 +83,3 @@
 - **ISTQB Certified Tester**  
 
 ---
-
-## How to Use This Template
-1. 创建一个 GitHub 仓库，例如 `resume`.
-2. 新建 `index.md` 文件，把这份内容复制进去。
-3. 打开仓库的 **Settings → Pages**，启用 GitHub Pages（选择 `main` 分支 → `/root`）。
-4. 访问：
