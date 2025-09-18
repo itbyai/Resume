@@ -3,7 +3,7 @@
 **Senior QA Automation Engineer | Web3 & AI Enthusiast**
 
 📍 Brisbane, Australia  
-📧 workxf@hotmail.com | 📱 +61 411 588 518  
+📧 itbyai@hotmail.com | 📱 +61 411 588 518  
 🌐 [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-link)
 
 ---
